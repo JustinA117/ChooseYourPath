@@ -79,7 +79,7 @@ public class MakeYourChoice
  
                    if (saySomethingNice)
                    {
-                       System.out.println("You say someting nice - she times are hard...");
+                       System.out.println("You say someting nice - she says that times are hard...");
                        System.out.println("Do you let her know you are here for her or talk about your problems? (a) here for her (b) talk about problems?");
                        boolean hereForHer = sc.nextLine().equals("a");
  
