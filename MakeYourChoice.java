@@ -1,9 +1,4 @@
-/* Title: Make Your Choice Project
-   Authors: Evan Barnes and Justin Arias
-   Course: AP Computer Science A 
-   Description: Using If and Else statements, we created a project in which you are a snake 
-   who is looking to find a mate this season. You must choose the correct 
-   path to find your ideal mate. */
+
 import java.util.Scanner;
  
 import javax.lang.model.util.ElementScanner14;
